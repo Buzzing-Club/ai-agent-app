@@ -1,1 +1,11 @@
-# ai-agent-app
+# AI Agent
+
+## Environment
+
+- Node v20.9.0
+
+## Usage
+
+```bash
+yarn dev
+```
